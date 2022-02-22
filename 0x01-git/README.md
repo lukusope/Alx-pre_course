@@ -1,1 +1,1 @@
-This is my Alx school proect
+This is my Alx school project
